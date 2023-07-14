@@ -1,0 +1,1824 @@
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:26 | address_type:1 | uid:861918 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:879 | address_type:1 | uid:861956 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:879 | address_type:1 | uid:861956 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:30 | address_type:1 | uid:861999 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:26 | address_type:1 | uid:861970 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:26 | address_type:1 | uid:861970 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:26 | address_type:1 | uid:861970 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:2 | uid:861910 | mainCoinType:60 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:1 | uid:861910 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:2 | uid:861860 | mainCoinType:60 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => NULL,
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:3 | uid:861860 | mainCoinType:195 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:1 | uid:861860 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => NULL,
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:3 | uid:861860 | mainCoinType:195 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:2 | uid:861860 | mainCoinType:60 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => NULL,
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:3 | uid:861860 | mainCoinType:195 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => NULL,
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:3 | uid:861860 | mainCoinType:195 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:2 | uid:861860 | mainCoinType:60 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => NULL,
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:3 | uid:861860 | mainCoinType:195 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:2 | uid:861860 | mainCoinType:60 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:1 | uid:861860 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => NULL,
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:3 | uid:861860 | mainCoinType:195 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:2 | uid:861860 | mainCoinType:60 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:1 | uid:861860 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => NULL,
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:3 | uid:861860 | mainCoinType:195 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => NULL,
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:3 | uid:861860 | mainCoinType:195 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:2 | uid:861860 | mainCoinType:60 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => NULL,
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:3 | uid:861860 | mainCoinType:195 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:2 | uid:861860 | mainCoinType:60 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:2 | address_type:1 | uid:861860 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:1 | uid:861860 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:2 | uid:861860 | mainCoinType:60 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => NULL,
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:3 | uid:861860 | mainCoinType:195 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:1 | uid:861860 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:2 | uid:861910 | mainCoinType:60 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:2 | uid:861910 | mainCoinType:60 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:1 | uid:861910 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => NULL,
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:3 | uid:861910 | mainCoinType:195 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:2 | uid:861910 | mainCoinType:60 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:1 | uid:861910 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => NULL,
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:3 | uid:861910 | mainCoinType:195 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:2 | uid:861910 | mainCoinType:60 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:2 | uid:861917 | mainCoinType:60 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:2 | uid:861913 | mainCoinType:60 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:2 | uid:861913 | mainCoinType:60 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:1 | uid:861913 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => NULL,
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:3 | uid:861913 | mainCoinType:195 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:2 | uid:861913 | mainCoinType:60 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:1 | uid:861913 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => NULL,
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:3 | uid:861913 | mainCoinType:195 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:2 | uid:861913 | mainCoinType:60 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:1 | uid:861913 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => NULL,
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:3 | uid:861913 | mainCoinType:195 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:2 | uid:861913 | mainCoinType:60 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:2 | uid:861913 | mainCoinType:60 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:2 | uid:861913 | mainCoinType:60 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:2 | uid:861913 | mainCoinType:60 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:2 | uid:861913 | mainCoinType:60 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:2 | uid:861910 | mainCoinType:60 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:1 | uid:861910 | mainCoinType:0 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => NULL,
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:3 | uid:861910 | mainCoinType:195 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:2 | uid:861910 | mainCoinType:60 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:2 | uid:861910 | mainCoinType:60 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:2 | uid:861910 | mainCoinType:60 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:7 | address_type:1 | uid:861919 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:26 | address_type:1 | uid:861919 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:9 | address_type:1 | uid:861919 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:9 | address_type:1 | uid:861919 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:26 | address_type:1 | uid:861919 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:8 | address_type:1 | uid:861919 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:10 | address_type:1 | uid:861919 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:4 | address_type:1 | uid:861860 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:26 | address_type:1 | uid:861919 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:7 | address_type:1 | uid:861919 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:26 | address_type:1 | uid:861860 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:11 | address_type:1 | uid:861919 | mainCoinType:2 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:26 | address_type:1 | uid:861910 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:4 | address_type:1 | uid:861910 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:879 | address_type:1 | uid:861949 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:7 | address_type:1 | uid:861910 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:8 | address_type:1 | uid:861910 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:878 | address_type:1 | uid:861910 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:7 | address_type:1 | uid:861919 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:28 | address_type:1 | uid:861860 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:31 | address_type:1 | uid:861860 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:11 | address_type:1 | uid:861860 | mainCoinType:2 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:11 | address_type:1 | uid:861860 | mainCoinType:2 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:11 | address_type:1 | uid:861910 | mainCoinType:2 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:11 | address_type:1 | uid:861910 | mainCoinType:2 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:11 | address_type:1 | uid:861919 | mainCoinType:2 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:11 | address_type:1 | uid:861920 | mainCoinType:2 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:11 | address_type:1 | uid:861920 | mainCoinType:2 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:11 | address_type:1 | uid:861920 | mainCoinType:2 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:11 | address_type:1 | uid:861860 | mainCoinType:2 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:11 | address_type:1 | uid:861860 | mainCoinType:2 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:11 | address_type:1 | uid:861860 | mainCoinType:2 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:11 | address_type:1 | uid:861860 | mainCoinType:2 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:11 | address_type:1 | uid:861860 | mainCoinType:2 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:11 | address_type:1 | uid:861860 | mainCoinType:2 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:11 | address_type:1 | uid:861860 | mainCoinType:2 | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:4 | address_type:1 | uid:862402 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:18 | address_type:1 | uid:862426 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:8 | address_type:1 | uid:862404 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:11 | address_type:1 | uid:862404 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:4 | address_type:1 | uid:862391 | mainCoinType: | address:
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '0x38fc87f811485f4c99482f727715293af667d587',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:2 | uid:862391 | mainCoinType:60 | address:0x38fc87f811485f4c99482f727715293af667d587
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '0x38fc87f811485f4c99482f727715293af667d587',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:2 | uid:862391 | mainCoinType:60 | address:0x38fc87f811485f4c99482f727715293af667d587
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '0x38fc87f811485f4c99482f727715293af667d587',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:2 | uid:862391 | mainCoinType:60 | address:0x38fc87f811485f4c99482f727715293af667d587
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '0x38fc87f811485f4c99482f727715293af667d587',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:2 | uid:862391 | mainCoinType:60 | address:0x38fc87f811485f4c99482f727715293af667d587
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '0x38fc87f811485f4c99482f727715293af667d587',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:2 | uid:862391 | mainCoinType:60 | address:0x38fc87f811485f4c99482f727715293af667d587
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '1DEM4E28dTVkEtos6dqabjzoffGA85Mu5R',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:1 | uid:862391 | mainCoinType:0 | address:1DEM4E28dTVkEtos6dqabjzoffGA85Mu5R
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => 'TShu1fjwsAYzTu2cZRSyz8ic4u3jSFoFAU',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:3 | uid:862391 | mainCoinType:195 | address:TShu1fjwsAYzTu2cZRSyz8ic4u3jSFoFAU
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => 'TShu1fjwsAYzTu2cZRSyz8ic4u3jSFoFAU',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:3 | uid:862391 | mainCoinType:195 | address:TShu1fjwsAYzTu2cZRSyz8ic4u3jSFoFAU
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '0x38fc87f811485f4c99482f727715293af667d587',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:2 | uid:862391 | mainCoinType:60 | address:0x38fc87f811485f4c99482f727715293af667d587
+array (
+  'headers' => 
+  array (
+  ),
+  'original' => 
+  array (
+    'data' => 
+    array (
+      'address' => '0x38fc87f811485f4c99482f727715293af667d587',
+    ),
+    'code' => 200,
+    'result_code' => 'SUCCESS',
+    'message' => 'SUCCESS',
+  ),
+  'exception' => NULL,
+) | coin_id:1 | address_type:2 | uid:862391 | mainCoinType:60 | address:0x38fc87f811485f4c99482f727715293af667d587

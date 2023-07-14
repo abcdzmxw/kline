@@ -1,0 +1,90 @@
+[2023-07-10 07:05:08] local.INFO: key_type:expired  
+[2023-07-10 07:06:15] local.INFO: key_type:expired  
+[2023-07-10 07:06:32] local.INFO: key_type:expired  
+[2023-07-10 07:06:39] local.INFO: key_type:expired  
+[2023-07-10 07:09:41] local.INFO: key_type:expired  
+[2023-07-10 07:10:49] local.INFO: key_type:expired  
+[2023-07-10 07:17:43] local.INFO: key_type:expired  
+[2023-07-10 07:18:16] local.INFO: key_type:expired  
+[2023-07-10 07:20:34] local.INFO: key_type:expired  
+[2023-07-10 07:20:59] local.INFO: key_type:expired  
+[2023-07-10 07:21:01] local.INFO: key_type:expired  
+[2023-07-10 07:21:04] local.INFO: key_type:expired  
+[2023-07-10 07:21:13] local.INFO: key_type:expired  
+[2023-07-10 07:21:19] local.INFO: key_type:expired  
+[2023-07-10 07:22:01] local.INFO: option_order_delivery:960  
+[2023-07-10 07:22:01] local.INFO: 奖励金额：1180盈利金额180本金1000  
+[2023-07-10 07:23:00] local.INFO: option_order_delivery:961  
+[2023-07-10 07:23:00] local.INFO: 奖励金额：1180盈利金额180本金1000  
+[2023-07-10 07:23:00] local.INFO: option_order_delivery:962  
+[2023-07-10 07:23:00] local.INFO: 奖励金额：1180盈利金额180本金1000  
+[2023-07-10 07:23:28] local.INFO: key_type:expired  
+[2023-07-10 07:26:19] local.INFO: key_type:expired  
+[2023-07-10 07:29:58] local.INFO: key_type:expired  
+[2023-07-10 07:32:50] local.INFO: key_type:expired  
+[2023-07-10 07:33:47] local.INFO: ExchangeBuyListener  
+[2023-07-10 07:33:48] local.INFO: ExchangeSellListener  
+[2023-07-10 07:33:50] local.INFO: key_type:expired  
+[2023-07-10 07:35:03] local.INFO: key_type:expired  
+[2023-07-10 07:35:20] local.INFO: key_type:expired  
+[2023-07-10 07:39:36] local.INFO: key_type:expired  
+[2023-07-10 07:41:39] local.INFO: key_type:expired  
+[2023-07-10 07:41:46] local.INFO: ExchangeBuyListener  
+[2023-07-10 07:41:48] local.INFO: key_type:expired  
+[2023-07-10 07:41:49] local.INFO: key_type:expired  
+[2023-07-10 07:42:20] local.INFO: key_type:expired  
+[2023-07-10 07:46:31] local.ERROR: Call to a member function requestIsConditional() on null {"exception":"[object] (Symfony\\Component\\Debug\\Exception\\FatalThrowableError(code: 0): Call to a member function requestIsConditional() on null at /www/wwwroot/server.arrcoin.net/vendor/dingo/api/src/Routing/Router.php:593)
+[stacktrace]
+#0 /www/wwwroot/server.arrcoin.net/vendor/dingo/api/src/Routing/Router.php(563): Dingo\\Api\\Routing\\Router->requestIsConditional()
+#1 /www/wwwroot/server.arrcoin.net/vendor/dingo/api/src/Routing/Router.php(529): Dingo\\Api\\Routing\\Router->prepareResponse(Object(Dingo\\Api\\Http\\Response), Object(Dingo\\Api\\Http\\Request), 'json')
+#2 /www/wwwroot/server.arrcoin.net/vendor/dingo/api/src/Http/Middleware/Request.php(126): Dingo\\Api\\Routing\\Router->dispatch(Object(Dingo\\Api\\Http\\Request))
+#3 /www/wwwroot/server.arrcoin.net/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(130): Dingo\\Api\\Http\\Middleware\\Request->Dingo\\Api\\Http\\Middleware\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#4 /www/wwwroot/server.arrcoin.net/app/Http/Middleware/LogLastUserActivity.php(25): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#5 /www/wwwroot/server.arrcoin.net/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): App\\Http\\Middleware\\LogLastUserActivity->handle(Object(Dingo\\Api\\Http\\Request), Object(Closure))
+#6 /www/wwwroot/server.arrcoin.net/app/Http/Middleware/SetLang.php(98): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#7 /www/wwwroot/server.arrcoin.net/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): App\\Http\\Middleware\\SetLang->handle(Object(Dingo\\Api\\Http\\Request), Object(Closure))
+#8 /www/wwwroot/server.arrcoin.net/vendor/fruitcake/laravel-cors/src/HandleCors.php(52): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#9 /www/wwwroot/server.arrcoin.net/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fruitcake\\Cors\\HandleCors->handle(Object(Dingo\\Api\\Http\\Request), Object(Closure))
+#10 /www/wwwroot/server.arrcoin.net/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#11 /www/wwwroot/server.arrcoin.net/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Dingo\\Api\\Http\\Request), Object(Closure))
+#12 /www/wwwroot/server.arrcoin.net/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/TransformsRequest.php(21): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#13 /www/wwwroot/server.arrcoin.net/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\TransformsRequest->handle(Object(Dingo\\Api\\Http\\Request), Object(Closure))
+#14 /www/wwwroot/server.arrcoin.net/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php(27): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#15 /www/wwwroot/server.arrcoin.net/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\ValidatePostSize->handle(Object(Dingo\\Api\\Http\\Request), Object(Closure))
+#16 /www/wwwroot/server.arrcoin.net/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/CheckForMaintenanceMode.php(63): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#17 /www/wwwroot/server.arrcoin.net/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Illuminate\\Foundation\\Http\\Middleware\\CheckForMaintenanceMode->handle(Object(Dingo\\Api\\Http\\Request), Object(Closure))
+#18 /www/wwwroot/server.arrcoin.net/vendor/fideloper/proxy/src/TrustProxies.php(57): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#19 /www/wwwroot/server.arrcoin.net/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Fideloper\\Proxy\\TrustProxies->handle(Object(Dingo\\Api\\Http\\Request), Object(Closure))
+#20 /www/wwwroot/server.arrcoin.net/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Dingo\\Api\\Http\\Request))
+#21 /www/wwwroot/server.arrcoin.net/vendor/dingo/api/src/Http/Middleware/Request.php(127): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#22 /www/wwwroot/server.arrcoin.net/vendor/dingo/api/src/Http/Middleware/Request.php(103): Dingo\\Api\\Http\\Middleware\\Request->sendRequestThroughRouter(Object(Dingo\\Api\\Http\\Request))
+#23 /www/wwwroot/server.arrcoin.net/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(171): Dingo\\Api\\Http\\Middleware\\Request->handle(Object(Dingo\\Api\\Http\\Request), Object(Closure))
+#24 /www/wwwroot/server.arrcoin.net/vendor/laravel/framework/src/Illuminate/Pipeline/Pipeline.php(105): Illuminate\\Pipeline\\Pipeline->Illuminate\\Pipeline\\{closure}(Object(Illuminate\\Http\\Request))
+#25 /www/wwwroot/server.arrcoin.net/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\\Pipeline\\Pipeline->then(Object(Closure))
+#26 /www/wwwroot/server.arrcoin.net/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(110): Illuminate\\Foundation\\Http\\Kernel->sendRequestThroughRouter(Object(Illuminate\\Http\\Request))
+#27 /www/wwwroot/server.arrcoin.net/public/index.php(56): Illuminate\\Foundation\\Http\\Kernel->handle(Object(Illuminate\\Http\\Request))
+#28 {main}
+"} 
+[2023-07-10 07:47:08] local.INFO: key_type:expired  
+[2023-07-10 07:51:13] local.INFO: key_type:expired  
+[2023-07-10 07:51:37] local.INFO: key_type:expired  
+[2023-07-10 07:53:39] local.INFO: key_type:expired  
+[2023-07-10 07:54:17] local.INFO: key_type:expired  
+[2023-07-10 07:54:20] local.INFO: key_type:expired  
+[2023-07-10 07:55:16] local.INFO: key_type:expired  
+[2023-07-10 07:55:20] local.INFO: key_type:expired  
+[2023-07-10 07:57:00] local.INFO: option_order_delivery:967  
+[2023-07-10 07:57:00] local.INFO: 奖励金额：118盈利金额18本金100  
+[2023-07-10 08:18:56] local.INFO: key_type:expired  
+[2023-07-10 08:19:07] local.INFO: key_type:expired  
+[2023-07-10 08:19:49] local.INFO: key_type:expired  
+[2023-07-10 08:21:00] local.INFO: option_order_delivery:969  
+[2023-07-10 08:21:00] local.INFO: 奖励金额：118盈利金额18本金100  
+[2023-07-10 08:23:17] local.INFO: key_type:expired  
+[2023-07-10 08:23:38] local.INFO: ExchangeBuyListener  
+[2023-07-10 08:23:41] local.INFO: key_type:expired  
+[2023-07-10 08:23:55] local.INFO: ExchangeBuyListener  
+[2023-07-10 08:23:55] local.INFO: ExchangeSellListener  
+[2023-07-10 08:23:58] local.INFO: key_type:expired  
+[2023-07-10 08:33:11] local.INFO: ExchangeSellListener  
+[2023-07-10 22:20:31] local.INFO: key_type:expired  

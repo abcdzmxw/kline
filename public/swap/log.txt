@@ -1,0 +1,108 @@
+hello
+Workerman[swap_kline_1min.php] start in DEBUG mode
+------------------------------------- WORKERMAN --------------------------------------
+Workerman version:4.0.26          PHP version:7.3.32
+-------------------------------------- WORKERS ---------------------------------------
+proto   user            worker          listen          processes    status           
+tcp     root            none            none            1             [OK]            
+--------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+hello
+Workerman[swap_depth.php] start in DEBUG mode
+------------------------------------- WORKERMAN --------------------------------------
+Workerman version:4.0.26          PHP version:7.3.32
+-------------------------------------- WORKERS ---------------------------------------
+proto   user            worker          listen          processes    status           
+tcp     root            none            none            1             [OK]            
+--------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+hello
+Workerman[swap_kline_4hour.php] start in DEBUG mode
+------------------------------------- WORKERMAN --------------------------------------
+Workerman version:4.0.26          PHP version:7.3.32
+-------------------------------------- WORKERS ---------------------------------------
+proto   user            worker          listen          processes    status           
+tcp     root            none            none            1             [OK]            
+--------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+hello
+Workerman[swap_kline_15min.php] start in DEBUG mode
+------------------------------------- WORKERMAN --------------------------------------
+Workerman version:4.0.26          PHP version:7.3.32
+-------------------------------------- WORKERS ---------------------------------------
+proto   user            worker          listen          processes    status           
+tcp     root            none            none            1             [OK]            
+--------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+hello
+Workerman[swap_kline_1mon.php] start in DEBUG mode
+------------------------------------- WORKERMAN --------------------------------------
+Workerman version:4.0.26          PHP version:7.3.32
+-------------------------------------- WORKERS ---------------------------------------
+proto   user            worker          listen          processes    status           
+tcp     root            none            none            1             [OK]            
+--------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+hello
+hello
+Workerman[swap_market.php] start in DEBUG mode
+Workerman[swap_kline_60min.php] start in DEBUG mode
+------------------------------------- WORKERMAN --------------------------------------
+Workerman version:4.0.26          PHP version:7.3.32
+-------------------------------------- WORKERS ---------------------------------------
+proto   user            worker          listen          processes    status           
+tcp     root            none            none            1             [OK]            
+--------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+------------------------------------- WORKERMAN --------------------------------------
+Workerman version:4.0.26          PHP version:7.3.32
+-------------------------------------- WORKERS ---------------------------------------
+proto   user            worker          listen          processes    status           
+tcp     root            none            none            1             [OK]            
+--------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+hello
+Workerman[swap_kline_1week.php] start in DEBUG mode
+------------------------------------- WORKERMAN --------------------------------------
+Workerman version:4.0.26          PHP version:7.3.32
+-------------------------------------- WORKERS ---------------------------------------
+proto   user            worker          listen          processes    status           
+tcp     root            none            none            1             [OK]            
+--------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+hello
+hello
+Workerman[swap_trade.php] start in DEBUG mode
+------------------------------------- WORKERMAN --------------------------------------
+Workerman version:4.0.26          PHP version:7.3.32
+-------------------------------------- WORKERS ---------------------------------------
+proto   user            worker          listen          processes    status           
+tcp     root            none            none            1             [OK]            
+--------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+Workerman[swap_kline_1day.php] start in DEBUG mode
+------------------------------------- WORKERMAN --------------------------------------
+Workerman version:4.0.26          PHP version:7.3.32
+-------------------------------------- WORKERS ---------------------------------------
+proto   user            worker          listen          processes    status           
+tcp     root            none            none            1             [OK]            
+--------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+hello
+Workerman[swap_kline_30min.php] start in DEBUG mode
+------------------------------------- WORKERMAN --------------------------------------
+Workerman version:4.0.26          PHP version:7.3.32
+-------------------------------------- WORKERS ---------------------------------------
+proto   user            worker          listen          processes    status           
+tcp     root            none            none            1             [OK]            
+--------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.
+hello
+Workerman[swap_kline_5min.php] start in DEBUG mode
+------------------------------------- WORKERMAN --------------------------------------
+Workerman version:4.0.26          PHP version:7.3.32
+-------------------------------------- WORKERS ---------------------------------------
+proto   user            worker          listen          processes    status           
+tcp     root            none            none            1             [OK]            
+--------------------------------------------------------------------------------------
+Press Ctrl+C to stop. Start success.

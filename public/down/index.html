@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="./img/favicon.ico" type="image/x-icon">
+    <title>CoinMax download</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+
+        html,
+        body {
+            height: 100%;
+            width: 100%;
+        }
+
+        body {
+            background-color: #0d041c;
+            overflow-x: hidden;
+        }
+
+        .head {
+            height: 200px;
+            text-align: center;
+        }
+
+        .head .bg {
+            height: 100%;
+        }
+
+        .main {
+            width: 100%;
+            overflow-x: hidden;
+        }
+
+        .qr-box {
+            width: 143px;
+            height: 143px;
+            margin: -71px auto 0;
+            border-radius: 10px;
+            border: solid 3px #ffffff;
+            z-index: 99;
+            position: relative;
+        }
+
+        .btn {
+            display: block;
+            width: 219px;
+            height: 48px;
+            border-radius: 10px;
+            border: solid 1px #ffffff;
+            font-family: SourceHanSansSC-Bold;
+            font-size: 16px;
+            letter-spacing: 1px;
+            margin: 0 auto;
+            font-weight: bold;
+            line-height: 48px;
+            text-indent: 40px;
+        }
+        .btn:active{
+            opacity: .7;
+        }
+        .btn.android {
+            background-color: #ffffff;
+            color: #0d041c;
+            margin-top: 44px;
+        }
+
+        .btn.iphone {
+            background-color: #0d041c;
+            color: #ffffff;
+            margin-top: 16px;
+        }
+
+        .btn .icon {
+            height: 20px;
+            vertical-align: middle;
+        }
+
+        .btn.iphone .icon {
+            height: 22px;
+        }
+        a{
+            text-decoration: none;
+        }
+        .qr-box{
+            position: relative;
+        }
+        .logo{
+            position: absolute;
+            width: 24px;
+            height: 24px;
+            left: 50%;
+            top: 50%;
+            z-index: 2;
+            margin-left: -12px;
+            margin-top: -12px;
+            background: #fff;
+            border-radius: 4px;
+            overflow: hidden;
+        }
+        #qrBox{
+            display: inline-block;
+            border: 4px solid #fff;
+            font-size: 0;
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            margin-top: -57px;
+            margin-left: -57px;
+        }
+        #qrBox img{
+            display: block;
+        }
+    </style>
+</head>
+
+<body>
+    <main class="main">
+        <div class="head">
+            <img class="bg" src="./img/topbg.png" alt="">
+        </div>
+        <div class="qr-box">
+            <div id="qrBox"></div>
+            <img class="logo" src="./img/favicon.ico" alt="">
+        </div>
+        <a id="android" href="https://apps.xfenfa.cn/hLqd" class="btn android" download="CoinMax.apk">
+            <img src="./img/androidicon.png" class="icon" alt="">
+            Android down</a>
+
+        <a id="ios" href="#" target="_blank" class="btn iphone">
+            <img src="./img/iosicon.png" class="icon" alt="">
+            ios download</a>
+    </main>
+    <script src="../../js/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+    <script src="../../js/libs/jquery/3.5.1/jquery.js"></script>
+    <script>
+        // 二维码内容
+        var serve = 'https://server.coinmax.net'
+        var qrcode = serve+'/down'
+
+        new QRCode(document.getElementById('qrBox'), {
+            text:qrcode,
+            width: 106,
+            height: 106,
+            colorDark: "#000000",
+            colorLight: "#ffffff",
+            correctLevel: QRCode.CorrectLevel.H
+        });
+        $.getJSON(serve+'/api/app/getNewestVersion',function(e){
+            let data = e.data
+              $("#android").attr('href',data.android.url)
+              $("#ios").attr('href',data.ios.url)
+        })
+    </script>
+</body>
+
+</html>
